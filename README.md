@@ -7,7 +7,7 @@ A data story exploring hygiene bias in NYC restaurants using the DOHMH Restauran
 
 | File | Purpose |
 |------|---------|
-| `FinalReport_DeliverMerge.ipynb` | **Main explainer notebook** — full analysis pipeline: data cleaning, EDA, machine learning, visualization rationale, and discussion |
+| `FinalReport.ipynb` | **Main explainer notebook** — full analysis pipeline: data cleaning, EDA, machine learning, visualization rationale, and discussion |
 | `WebPage_Visualizations.ipynb` | **Web asset notebook** — generates the interactive and static plots embedded in the website |
 
 ## Project Structure
